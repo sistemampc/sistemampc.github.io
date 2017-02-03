@@ -1,0 +1,9 @@
+com.mpc.backend.entities
+com.mpc.backend.facades
+com.mpc.frontend.categoriaComponentes
+com.mpc.frontend.componentes
+com.mpc.frontend.ordenes
+com.mpc.frontend.security
+com.mpc.frontend.usuarios
+com.mpc.frontend.utilities
+com.mpc.frontend.vehiculos
